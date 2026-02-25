@@ -1,0 +1,2 @@
+# LAN-Based-File-Transfer-using-Sliding-Window-Protocol
+This is a a Local Area Network (LAN) file transfer project involves connecting multiple devices within a limited physical area (like a home or office) to enable high-speed data exchange and resource sharing without relying on an internet connection. The project establishes a dedicated, private network for efficient and secure local communication.
